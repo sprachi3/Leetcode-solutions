@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sprachi3/Leetcode-solutions/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/sprachi3/Leetcode-solutions/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
