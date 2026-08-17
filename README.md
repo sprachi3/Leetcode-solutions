@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/sprachi3/Leetcode-solutions/tree/master/0198-house-robber) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sprachi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
