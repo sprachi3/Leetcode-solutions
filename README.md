@@ -28,16 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/sprachi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sprachi3/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sprachi3/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sprachi3/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
