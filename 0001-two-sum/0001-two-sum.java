@@ -11,7 +11,7 @@ class Solution {
                 }
             }
         }
-        int[] Arr = result.stream().mapToInt(i -> i).toArray();
+        int[] Arr = {result.get(0),result.get(1)};//result.stream().mapToInt(i -> i).toArray();
         return Arr;
     }
 }
