@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sprachi3/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sprachi3/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sprachi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
