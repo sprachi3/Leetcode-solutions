@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sprachi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sprachi3/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sprachi3/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sprachi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sprachi3/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sprachi3/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sprachi3/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/sprachi3/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
