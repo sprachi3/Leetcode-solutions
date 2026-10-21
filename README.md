@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/sprachi3/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sprachi3/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sprachi3/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sprachi3/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/sprachi3/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sprachi3/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
