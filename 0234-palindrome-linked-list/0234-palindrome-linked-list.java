@@ -11,8 +11,8 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         Stack<Integer> st=new Stack<>();
-
         ListNode temp=head;
+
         while(temp!=null){
             st.add(temp.val);
             temp=temp.next;
@@ -21,8 +21,8 @@ class Solution {
         ListNode curr=head;
         while(curr!=null){
             if(curr.val!=st.peek()) return false;
-            curr=curr.next;
             st.pop();
+            curr=curr.next;
         }
         return true;
 
