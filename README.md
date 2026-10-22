@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sprachi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sprachi3/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sprachi3/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sprachi3/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sprachi3/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sprachi3/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sprachi3/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sprachi3/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sprachi3/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sprachi3/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
@@ -254,8 +257,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sprachi3/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sprachi3/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
