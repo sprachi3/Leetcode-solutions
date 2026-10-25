@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sprachi3/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/sprachi3/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sprachi3/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/sprachi3/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/sprachi3/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
