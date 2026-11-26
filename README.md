@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sprachi3/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sprachi3/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sprachi3/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sprachi3/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sprachi3/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sprachi3/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sprachi3/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/sprachi3/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sprachi3/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sprachi3/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sprachi3/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sprachi3/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
