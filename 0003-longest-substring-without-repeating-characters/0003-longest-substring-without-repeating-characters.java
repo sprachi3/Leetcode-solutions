@@ -6,7 +6,7 @@ class Solution {
         int max=0;
 
         for(int right=0;right<s.length();right++){
-            while(set.contains(s.charAt(right))){
+            while(set.contains(s.charAt(right))&&left<right){
                 set.remove(s.charAt(left));
                 left++;
             }
